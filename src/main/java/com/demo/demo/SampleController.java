@@ -15,4 +15,10 @@ public class SampleController {
     public String sayHello() {
         return "Hello, world!";
     }
+
+    @GetMapping("/allo")
+    public String sayAllo() {
+        return "Allo!";
+    }
+
 }
