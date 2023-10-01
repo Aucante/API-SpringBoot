@@ -1,4 +1,4 @@
-# Studi-vue-front
+# Spring API
 
 ## Docker
 
